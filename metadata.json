@@ -1,0 +1,7 @@
+{
+  "name": "SmartRoute Thai (ระบบออโต้รูทขนส่ง)",
+  "description": "ระบบวางแผนเส้นทางขนส่งสินค้าอัจฉริยะสำหรับรถกระบะตู้ทึบ คำนวณลำดับจุดส่ง เวลา และต้นทุนด้วย AI",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
